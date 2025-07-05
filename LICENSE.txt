@@ -17,4 +17,4 @@ GitHub: https://github.com/hejhdiss
 
 Author's Note:  
 This is an independent project and is **not affiliated with or endorsed by Qubes OS or its developers**.  
-The Privacy Edition of NeuroShell OS is conceptually inspired by Qubes OS and its security model.
+The Privacy Edition of NeuroShell OS is conceptually inspired by Qubes OS.
