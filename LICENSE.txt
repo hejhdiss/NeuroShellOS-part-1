@@ -1,0 +1,20 @@
+NeuroShell OS – Part 1  
+License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)  
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Summary of License Terms:
+
+- Attribution (BY): You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+- ShareAlike (SA): If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+- No additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Author: Muhammed Shafin P  
+GitHub: https://github.com/hejhdiss
+
+---
+
+Author's Note:  
+This is an independent project and is **not affiliated with or endorsed by Qubes OS or its developers**.  
+The Privacy Edition of NeuroShell OS is conceptually inspired by Qubes OS and its security model.
