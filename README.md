@@ -9,7 +9,7 @@ NeuroShell OS is a conceptual operating system deeply integrating AI into its co
 ## Project Links
 
 - **Main Concept Repository**: [NeuroShellOS](https://github.com/hejhdiss/NeuroShellOS)
-- **Web/PDF Link**: 
+- **Web/PDF Link**: [Link](https://hejhdiss.github.io/NeuroShellOS-part-1/)
 
 ---
 
